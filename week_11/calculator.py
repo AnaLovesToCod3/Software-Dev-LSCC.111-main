@@ -34,4 +34,6 @@ while True:
 
 result = calculator(a, b, op)
 
-print(f"Result: {result}")
+print(f"result: {result}")
+
+#rampin up the difficulty, but you got this. trust.
