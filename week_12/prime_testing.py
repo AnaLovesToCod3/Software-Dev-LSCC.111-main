@@ -29,10 +29,10 @@ try:
     print_primes_smaller_than(user_input)
 
 except ValueError as e:
-    print("Error:", e)
+    print("error:", e)
 
 except Exception as e:
-    print("An unexpected error occurred:", e)
+    print("oop, unexpected error occurred:", e)
 
 
 #onto the next one babes
